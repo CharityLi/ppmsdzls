@@ -4,7 +4,7 @@
 # 美食交流群:https://t.me/+l7DOrDQT2yQ0NTBl
 ###### pp强卡器免费版，可用无毒
 ###### 使用前请务必下载code区的使用说明并仔细阅读，造成损失概不负责
-# 下载地址：https://github.com/sendino-hashilate/ppmsdzls/releases/tag/1.0
+# 下载地址：https://github.com/sendino-hashilate/ppmsdzls/releases
 ### 大多数玩家会使用枫叶，本软件推荐结合枫叶进行使用，也可以使用桌面版使用。使用说明也会提到试用软件范围请自行查看。（没有枫叶的玩家也可在releases里查看）
 ### 如果需要下载CE也就是cheatengine的玩家，请前往官网 www.cheatengine.org 下载，也可以百度搜索CE到软件园进行下载
 ## 此外申明：本人并非原作者，这是脚本！不会封号！！！美食没有按键检测机制！！！！
